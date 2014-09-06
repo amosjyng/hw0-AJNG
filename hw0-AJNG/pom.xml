@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.cmu.lti.11791.f13.hw0</groupId>
   <artifactId>hw0-AJNG</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
   <scm>
   	<url>scm:git:git@github.com:amosjyng/hw0-AJNG</url>
   	<connection>scm:git:git@github.com:amosjyng/hw0-AJNG</connection>
